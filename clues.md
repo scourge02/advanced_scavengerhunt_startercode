@@ -66,10 +66,3 @@ These programs must be completed in [cloud9](https://c9.io/).
 | 2 | Hello Name | ...asks the user for their name in an alert window then prints a greeting to you in a p tag on the page  | 4 | 
 | 3 |  Clicking | ...create a page that when a user clicks on a div tag it will hide from site.  | 4 | 
 | 4 | Hello Name Input | ...asks the user for their name in an input field then prints a greeting to you in a p tag on the page after they click a button  | 10 | 
-
-#### GitHub
-
-| Clue  | Name | Create a program that... | Points | 
-|-------|:-------:|------|--------------|
-| 1 | Fork | Fork an instructor's repo and add a .txt file with your name in it. | 5 | 
-| 2 | Pull | Send a pull request to the instructor. | 5 |
