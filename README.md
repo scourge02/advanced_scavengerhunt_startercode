@@ -5,8 +5,8 @@ You will complete a [series of challenges](clues.md) that will test your skills 
 
 ## Instuctions 
 1. Pair up with a partner
-2. Open up the [cloud9](https://c9.io/)
-3. Open up [popcode](https://popcode.org/)
+2. Open up the [cloud9](https://c9.io/) (this is where you will write your code)
+3. Open up [popcode](https://popcode.org/) (use this to test your code)
 4. Navigate to [clues.md](clues.md)
 5. Follow the intructions to complete each task
 
