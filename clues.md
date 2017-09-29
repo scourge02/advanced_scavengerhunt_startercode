@@ -1,6 +1,4 @@
 # Scavenger Hunt Clues
-![Image](http://i.imgur.com/7PecKI9.png)
-
 
 ===================
 #### HTML/CSS
