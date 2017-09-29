@@ -1,7 +1,7 @@
 # Scavenger Hunt Clues
 
 #### HTML/CSS
-These programs must be completed in [cloud9](https://c9.io/). Use Google or your [reference table](https://github.com/ScriptEdcurriculum/curriculum2016/blob/master/resources/ScriptEdReferenceTable2016.pdf) for guideance!
+These programs can be completed in [cloud9](https://c9.io/). Use Google or your [reference table](https://github.com/ScriptEdcurriculum/curriculum2016/blob/master/resources/ScriptEdReferenceTable2016.pdf) for guideance!
 
 | Clue  | Name | Create a webpage/website that... | Points | 
 |-------|:-------:|------|--------------|
