@@ -1,6 +1,5 @@
 # Scavenger Hunt Clues
 
-===================
 #### HTML/CSS
 These programs must be completed in [cloud9](https://c9.io/).
 
