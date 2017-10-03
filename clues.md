@@ -8,7 +8,7 @@ These programs can be completed in [cloud9](https://c9.io/). Use Google or your 
 | 1| hello.html|  ...says "Hello, World!" in a h1 tag on the page.| 4 |
 | 2| headBody.html |...has "Hello!" as the title and "World!" written in the body. |1 | 
 | 3 | div.html | ...has an image and text. The image must be in a div with the class "image" and the text must be in  a div with the ID "text".| 3 | 
-| 4 | Style | ...center a text element on a webpage & change its color. | 3 |
+| 4 | style.css | ...center a text element on a webpage & change its color. | 3 |
 | 5 | MyFirstWebsite  | ...contains four webpages; index.html, page1.html, page2.html, page3.html. Each webpage must have a title and one line of identifying text. | 10 | 
 | 5A | style.css  | ...center the text on all four webpages using a link to a stylesheet. | 2 | 
 
