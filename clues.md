@@ -20,7 +20,7 @@ These programs can be completed in [cloud9](https://c9.io/). Use Google or your 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
 | 1| hello.js|  ...prints "Hello, World!" in the console. | 1 |
-| 2| helloName.js |...asks for your name in an alert window then prints a message saying hello to you. |3 |
+| 2| helloName.js |...asks for your name then prints a message saying hello to you. |3 |
 | 3 | age.js | ...asks for your name and age then prints out how old you are in a string. | 3 |  
 
 
